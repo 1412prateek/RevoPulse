@@ -1,0 +1,6 @@
+{
+  "name": "RoverPulse",
+  "description": "High-performance RC car controller and telemetry dashboard for ESP32 with TB6612FNG motor driver and live FPV camera streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
